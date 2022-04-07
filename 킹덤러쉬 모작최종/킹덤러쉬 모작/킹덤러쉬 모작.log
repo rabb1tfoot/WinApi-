@@ -1,0 +1,104 @@
+﻿  stdafx.cpp
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Animation.cpp
+  Animator.cpp
+  App.cpp
+  Arrow.cpp
+  Bandit.cpp
+  Block.cpp
+  Bomb.cpp
+  CannonBound.cpp
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\cannonbound.cpp(52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CSelect_HeroMenu.cpp
+  Hero.cpp
+  HeroFace_Hammer.cpp
+  HeroFace_light.cpp
+  HeroFace_None.cpp
+  Hero_Hammer.cpp
+  Hero_Light.cpp
+  FatOrc.cpp
+  CStage_Resume.cpp
+  Select_EnterStage.cpp
+  Select_Resume.cpp
+  Magicbolt.cpp
+  컴파일하고 있습니다...
+  Magician.cpp
+  MapMgr.cpp
+  NotBlock.cpp
+  Ranger.cpp
+  Barracks.cpp
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\barracks.cpp(277): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Goblin.cpp
+  Building.cpp
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\building.cpp(144): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\building.cpp(150): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  BuildMenu.cpp
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\buildmenu.cpp(151): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CArcher.cpp
+  CCannon.cpp
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\ccannon.cpp(65): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\ccannon.cpp(67): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Mage.cpp
+  Obj_Coll.cpp
+  Select_Menu.cpp
+  Select_Quit.cpp
+  Soldier.cpp
+  SoundMgr.cpp
+  Stage_1.cpp
+  Stage_2.cpp
+  Stage_3.cpp
+  Stage_Pause.cpp
+  컴파일하고 있습니다...
+  Stage_Quit.cpp
+  Stage_Select.cpp
+  Stage_Speed.cpp
+  Stage_Try.cpp
+  Test.cpp
+  CStage_Title.cpp
+  Title_QuitUI.cpp
+  Title_StartUI.cpp
+  UI.cpp
+  CUIMgr.cpp
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\cuimgr.cpp(165): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  KeyMgr.cpp
+  Collider.cpp
+  CollisionMgr.cpp
+  CStage_Field.cpp
+  CStage_Tool.cpp
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\cstage_tool.cpp(857): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\cstage_tool.cpp(861): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\cstage_tool.cpp(865): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\cstage_tool.cpp(869): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\cstage_tool.cpp(766): warning C4101: 'FrmTex' :참조되지 않은 지역 변수입니다.
+  StageMgr.cpp
+  Obj.cpp
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\obj.cpp(91): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\obj.cpp(90): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\obj.cpp(87): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\obj.cpp(86): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\obj.cpp(100): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\obj.cpp(99): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\obj.cpp(109): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\obj.cpp(108): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Stage.cpp
+  TimeMgr.cpp
+  Texture.cpp
+  컴파일하고 있습니다...
+  ResMgr.cpp
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\resmgr.cpp(166): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  PathMgr.cpp
+  Res.cpp
+  main.cpp
+  Unit.cpp
+  Wave.cpp
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\wave.cpp(54): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\wave.cpp(175): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\stage.cpp(115): warning C4715: 'CStage::FindDigitSize': 모든 제어 경로에서 값을 반환하지는 않습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\keymgr.h(57): warning C4172: 지역 변수 또는 임시의 주소를 반환하고 있습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\keymgr.h(47): warning C4172: 지역 변수 또는 임시의 주소를 반환하고 있습니다.
+  1975 of 1982 functions (99.6%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  킹덤러쉬 모작.vcxproj -> E:\킹덤러쉬 모작3주차\킹덤러쉬 모작\..\bin\Release\킹덤러쉬 모작.exe

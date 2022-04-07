@@ -1,0 +1,9 @@
+﻿  CStage_Field.cpp
+  Stage_1.cpp
+  Stage_2.cpp
+  Stage_3.cpp
+  Wave.cpp
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\wave.cpp(54): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+e:\킹덤러쉬 모작3주차\킹덤러쉬 모작\wave.cpp(175): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+  킹덤러쉬 모작.vcxproj -> E:\킹덤러쉬 모작3주차\Debug\킹덤러쉬 모작.exe

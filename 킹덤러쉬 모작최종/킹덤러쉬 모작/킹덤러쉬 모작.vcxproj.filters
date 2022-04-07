@@ -1,0 +1,541 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\Manager">
+      <UniqueIdentifier>{2bde924a-d5b9-4155-8e9f-40e0811829ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Resource">
+      <UniqueIdentifier>{af9d09dc-65d6-4e8d-b92b-f914bb6cf79f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Resource\Texture">
+      <UniqueIdentifier>{9d60fb25-c8d7-4cac-8270-dbb0d05f3548}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Stage">
+      <UniqueIdentifier>{d98978d3-8dee-4635-a1e8-b0240f415b4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object">
+      <UniqueIdentifier>{6e49cead-ea58-435a-bbf8-94baf46aa019}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Stage\Tool">
+      <UniqueIdentifier>{b496427c-0d58-4b54-8c84-947ab8c0b658}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Component">
+      <UniqueIdentifier>{57d90329-2d8b-4f7f-aa03-33bf78c1d96d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Header">
+      <UniqueIdentifier>{4f006ff9-e6db-4de7-86a7-4175060a1d0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\UI">
+      <UniqueIdentifier>{df6d8316-dbec-4220-9e23-2dcc75fb3f0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\Test">
+      <UniqueIdentifier>{f573f4b1-9e4e-462a-ad0c-43ed8f4967db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\UI\Building">
+      <UniqueIdentifier>{eb1a37d2-d11c-4e3a-9825-a1914a72081d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\UI\Building\Building_menu">
+      <UniqueIdentifier>{fd422e41-3ca1-46b7-bbaf-25882a85b841}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\UI\Building\Barracks">
+      <UniqueIdentifier>{9a4d9af3-4800-4fef-940e-52f0b77a6a11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\UI\Building\Mage">
+      <UniqueIdentifier>{3a666de9-8092-4669-9302-54edeed35bde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\UI\Building\Archer">
+      <UniqueIdentifier>{15ee3eaa-d309-4173-9a4d-8cd7bcb1da83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\UI\Building\Cannon">
+      <UniqueIdentifier>{eaf31a20-8fff-4acd-a4b7-d07b56315030}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\Unit">
+      <UniqueIdentifier>{4a9bc9d4-2c1a-4380-925f-94c033c41baf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\Unit\ALLY">
+      <UniqueIdentifier>{33c0b895-7bc6-42e8-b5d1-a938df21cb0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\Unit\ENEMY">
+      <UniqueIdentifier>{55295222-8350-4a81-925c-54c43dd208f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\Throw">
+      <UniqueIdentifier>{a0d35709-1f0f-4c3a-9cfe-be4568019993}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\UI\MapUI">
+      <UniqueIdentifier>{532c96c3-1284-4a36-82c4-1908e1dca759}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\UI\WaveUI">
+      <UniqueIdentifier>{e0e551b1-d221-453c-896f-cd536ed67bf7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Stage\MainStage">
+      <UniqueIdentifier>{05c3f046-ca4a-4998-a890-67a14d58a8dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Stage\Title">
+      <UniqueIdentifier>{df1e179a-3a01-42fc-bf9e-f4f2e2f2dce8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Stage\SelectStage">
+      <UniqueIdentifier>{7bb5861d-cd39-4ead-b62e-b6b7c5980ba5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\UI\ButtonUI">
+      <UniqueIdentifier>{c5101932-e07a-46bd-adbb-adb21908fbd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\UI\ButtonUI\Select">
+      <UniqueIdentifier>{b560f718-680c-460d-bb94-f86888e45c95}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\UI\ButtonUI\Title">
+      <UniqueIdentifier>{02a327b2-71ae-4dc0-8cc2-356cf6009ffb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\UI\ButtonUI\Stage">
+      <UniqueIdentifier>{1452b8f5-f6ff-4cfc-b0db-101d994ae914}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\UI\Hero">
+      <UniqueIdentifier>{dddaddf1-a46a-470c-ae4d-df5803192308}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Object\UI\ButtonUI\Select\HeroMenu">
+      <UniqueIdentifier>{5438f57e-b458-4af7-9f35-57085056d9ac}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="킹덤러쉬 모작.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="define.h">
+      <Filter>소스 파일\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="PathMgr.h">
+      <Filter>소스 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Res.h">
+      <Filter>소스 파일\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="App.h">
+      <Filter>소스 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="ResMgr.h">
+      <Filter>소스 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>소스 파일\Resource\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeMgr.h">
+      <Filter>소스 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>소스 파일\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj.h">
+      <Filter>소스 파일\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="struct.h">
+      <Filter>소스 파일\Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>소스 파일\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Animator.h">
+      <Filter>소스 파일\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.h">
+      <Filter>소스 파일\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="StageMgr.h">
+      <Filter>소스 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage_Tool.h">
+      <Filter>소스 파일\Stage\Tool</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionMgr.h">
+      <Filter>소스 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyMgr.h">
+      <Filter>소스 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="CUIMgr.h">
+      <Filter>소스 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>소스 파일\Object\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Test.h">
+      <Filter>소스 파일\Object\Test</Filter>
+    </ClInclude>
+    <ClInclude Include="Building.h">
+      <Filter>소스 파일\Object\UI\Building</Filter>
+    </ClInclude>
+    <ClInclude Include="BuildMenu.h">
+      <Filter>소스 파일\Object\UI\Building\Building_menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Barracks.h">
+      <Filter>소스 파일\Object\UI\Building\Barracks</Filter>
+    </ClInclude>
+    <ClInclude Include="Mage.h">
+      <Filter>소스 파일\Object\UI\Building\Mage</Filter>
+    </ClInclude>
+    <ClInclude Include="CArcher.h">
+      <Filter>소스 파일\Object\UI\Building\Archer</Filter>
+    </ClInclude>
+    <ClInclude Include="CCannon.h">
+      <Filter>소스 파일\Object\UI\Building\Cannon</Filter>
+    </ClInclude>
+    <ClInclude Include="Unit.h">
+      <Filter>소스 파일\Object\Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="Soldier.h">
+      <Filter>소스 파일\Object\Unit\ALLY</Filter>
+    </ClInclude>
+    <ClInclude Include="Goblin.h">
+      <Filter>소스 파일\Object\Unit\ENEMY</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj_Coll.h">
+      <Filter>소스 파일\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Ranger.h">
+      <Filter>소스 파일\Object\Unit\ALLY</Filter>
+    </ClInclude>
+    <ClInclude Include="Magician.h">
+      <Filter>소스 파일\Object\Unit\ALLY</Filter>
+    </ClInclude>
+    <ClInclude Include="Magicbolt.h">
+      <Filter>소스 파일\Object\Throw</Filter>
+    </ClInclude>
+    <ClInclude Include="Arrow.h">
+      <Filter>소스 파일\Object\Throw</Filter>
+    </ClInclude>
+    <ClInclude Include="Bomb.h">
+      <Filter>소스 파일\Object\Throw</Filter>
+    </ClInclude>
+    <ClInclude Include="MapMgr.h">
+      <Filter>소스 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="NotBlock.h">
+      <Filter>소스 파일\Object\UI\MapUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Block.h">
+      <Filter>소스 파일\Object\UI\MapUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Wave.h">
+      <Filter>소스 파일\Object\UI\WaveUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CannonBound.h">
+      <Filter>소스 파일\Object\Unit\ALLY</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage_Title.h">
+      <Filter>소스 파일\Stage\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_Select.h">
+      <Filter>소스 파일\Stage\SelectStage</Filter>
+    </ClInclude>
+    <ClInclude Include="Select_EnterStage.h">
+      <Filter>소스 파일\Object\UI\ButtonUI\Select</Filter>
+    </ClInclude>
+    <ClInclude Include="Select_Menu.h">
+      <Filter>소스 파일\Object\UI\ButtonUI\Select</Filter>
+    </ClInclude>
+    <ClInclude Include="Select_Quit.h">
+      <Filter>소스 파일\Object\UI\ButtonUI\Select</Filter>
+    </ClInclude>
+    <ClInclude Include="Select_Resume.h">
+      <Filter>소스 파일\Object\UI\ButtonUI\Select</Filter>
+    </ClInclude>
+    <ClInclude Include="Title_QuitUI.h">
+      <Filter>소스 파일\Object\UI\ButtonUI\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="Title_StartUI.h">
+      <Filter>소스 파일\Object\UI\ButtonUI\Title</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_Quit.h">
+      <Filter>소스 파일\Object\UI\ButtonUI\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_Try.h">
+      <Filter>소스 파일\Object\UI\ButtonUI\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_Pause.h">
+      <Filter>소스 파일\Object\UI\ButtonUI\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_Resume.h">
+      <Filter>소스 파일\Object\UI\ButtonUI\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_Speed.h">
+      <Filter>소스 파일\Object\UI\ButtonUI\Stage</Filter>
+    </ClInclude>
+    <ClInclude Include="FatOrc.h">
+      <Filter>소스 파일\Object\Unit\ENEMY</Filter>
+    </ClInclude>
+    <ClInclude Include="Bandit.h">
+      <Filter>소스 파일\Object\Unit\ENEMY</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_1.h">
+      <Filter>소스 파일\Stage\MainStage</Filter>
+    </ClInclude>
+    <ClInclude Include="Hero_Light.h">
+      <Filter>소스 파일\Object\UI\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="Hero.h">
+      <Filter>소스 파일\Object\UI\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="Hero_Hammer.h">
+      <Filter>소스 파일\Object\UI\Hero</Filter>
+    </ClInclude>
+    <ClInclude Include="CSelect_HeroMenu.h">
+      <Filter>소스 파일\Object\UI\ButtonUI\Select\HeroMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="HeroFace_light.h">
+      <Filter>소스 파일\Object\UI\ButtonUI\Select\HeroMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="HeroFace_Hammer.h">
+      <Filter>소스 파일\Object\UI\ButtonUI\Select\HeroMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="HeroFace_None.h">
+      <Filter>소스 파일\Object\UI\ButtonUI\Select\HeroMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundMgr.h">
+      <Filter>소스 파일\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="CStage_Field.h">
+      <Filter>소스 파일\Stage\MainStage</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_2.h">
+      <Filter>소스 파일\Stage\MainStage</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage_3.h">
+      <Filter>소스 파일\Stage\MainStage</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PathMgr.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Res.cpp">
+      <Filter>소스 파일\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="App.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="ResMgr.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>소스 파일\Resource\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeMgr.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.cpp">
+      <Filter>소스 파일\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Obj.cpp">
+      <Filter>소스 파일\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>소스 파일\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Animator.cpp">
+      <Filter>소스 파일\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.cpp">
+      <Filter>소스 파일\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="StageMgr.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_Tool.cpp">
+      <Filter>소스 파일\Stage\Tool</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionMgr.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMgr.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="CUIMgr.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>소스 파일\Object\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>소스 파일\Object\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Building.cpp">
+      <Filter>소스 파일\Object\UI\Building</Filter>
+    </ClCompile>
+    <ClCompile Include="BuildMenu.cpp">
+      <Filter>소스 파일\Object\UI\Building\Building_menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Barracks.cpp">
+      <Filter>소스 파일\Object\UI\Building\Barracks</Filter>
+    </ClCompile>
+    <ClCompile Include="Mage.cpp">
+      <Filter>소스 파일\Object\UI\Building\Mage</Filter>
+    </ClCompile>
+    <ClCompile Include="CArcher.cpp">
+      <Filter>소스 파일\Object\UI\Building\Archer</Filter>
+    </ClCompile>
+    <ClCompile Include="CCannon.cpp">
+      <Filter>소스 파일\Object\UI\Building\Cannon</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit.cpp">
+      <Filter>소스 파일\Object\Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="Soldier.cpp">
+      <Filter>소스 파일\Object\Unit\ALLY</Filter>
+    </ClCompile>
+    <ClCompile Include="Goblin.cpp">
+      <Filter>소스 파일\Object\Unit\ENEMY</Filter>
+    </ClCompile>
+    <ClCompile Include="Obj_Coll.cpp">
+      <Filter>소스 파일\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Ranger.cpp">
+      <Filter>소스 파일\Object\Unit\ALLY</Filter>
+    </ClCompile>
+    <ClCompile Include="Magician.cpp">
+      <Filter>소스 파일\Object\Unit\ALLY</Filter>
+    </ClCompile>
+    <ClCompile Include="Magicbolt.cpp">
+      <Filter>소스 파일\Object\Throw</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrow.cpp">
+      <Filter>소스 파일\Object\Throw</Filter>
+    </ClCompile>
+    <ClCompile Include="Bomb.cpp">
+      <Filter>소스 파일\Object\Throw</Filter>
+    </ClCompile>
+    <ClCompile Include="MapMgr.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Block.cpp">
+      <Filter>소스 파일\Object\UI\MapUI</Filter>
+    </ClCompile>
+    <ClCompile Include="NotBlock.cpp">
+      <Filter>소스 파일\Object\UI\MapUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Wave.cpp">
+      <Filter>소스 파일\Object\UI\WaveUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CannonBound.cpp">
+      <Filter>소스 파일\Object\Unit\ALLY</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_Title.cpp">
+      <Filter>소스 파일\Stage\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_Select.cpp">
+      <Filter>소스 파일\Stage\SelectStage</Filter>
+    </ClCompile>
+    <ClCompile Include="Select_EnterStage.cpp">
+      <Filter>소스 파일\Object\UI\ButtonUI\Select</Filter>
+    </ClCompile>
+    <ClCompile Include="Select_Menu.cpp">
+      <Filter>소스 파일\Object\UI\ButtonUI\Select</Filter>
+    </ClCompile>
+    <ClCompile Include="Select_Quit.cpp">
+      <Filter>소스 파일\Object\UI\ButtonUI\Select</Filter>
+    </ClCompile>
+    <ClCompile Include="Select_Resume.cpp">
+      <Filter>소스 파일\Object\UI\ButtonUI\Select</Filter>
+    </ClCompile>
+    <ClCompile Include="Title_QuitUI.cpp">
+      <Filter>소스 파일\Object\UI\ButtonUI\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="Title_StartUI.cpp">
+      <Filter>소스 파일\Object\UI\ButtonUI\Title</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_Quit.cpp">
+      <Filter>소스 파일\Object\UI\ButtonUI\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_Try.cpp">
+      <Filter>소스 파일\Object\UI\ButtonUI\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_Pause.cpp">
+      <Filter>소스 파일\Object\UI\ButtonUI\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_Resume.cpp">
+      <Filter>소스 파일\Object\UI\ButtonUI\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_Speed.cpp">
+      <Filter>소스 파일\Object\UI\ButtonUI\Stage</Filter>
+    </ClCompile>
+    <ClCompile Include="FatOrc.cpp">
+      <Filter>소스 파일\Object\Unit\ENEMY</Filter>
+    </ClCompile>
+    <ClCompile Include="Bandit.cpp">
+      <Filter>소스 파일\Object\Unit\ENEMY</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_1.cpp">
+      <Filter>소스 파일\Stage\MainStage</Filter>
+    </ClCompile>
+    <ClCompile Include="Hero_Light.cpp">
+      <Filter>소스 파일\Object\UI\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="Hero.cpp">
+      <Filter>소스 파일\Object\UI\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="Hero_Hammer.cpp">
+      <Filter>소스 파일\Object\UI\Hero</Filter>
+    </ClCompile>
+    <ClCompile Include="CSelect_HeroMenu.cpp">
+      <Filter>소스 파일\Object\UI\ButtonUI\Select\HeroMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="HeroFace_light.cpp">
+      <Filter>소스 파일\Object\UI\ButtonUI\Select\HeroMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="HeroFace_Hammer.cpp">
+      <Filter>소스 파일\Object\UI\ButtonUI\Select\HeroMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="HeroFace_None.cpp">
+      <Filter>소스 파일\Object\UI\ButtonUI\Select\HeroMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundMgr.cpp">
+      <Filter>소스 파일\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="CStage_Field.cpp">
+      <Filter>소스 파일\Stage\MainStage</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_2.cpp">
+      <Filter>소스 파일\Stage\MainStage</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage_3.cpp">
+      <Filter>소스 파일\Stage\MainStage</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="킹덤러쉬 모작.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="킹덤러쉬 모작.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
